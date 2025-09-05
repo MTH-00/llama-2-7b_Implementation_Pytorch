@@ -7,7 +7,7 @@ A PyTorch-based implementation of the **LLaMA-2 (7B)** model architecture, modul
 ## Repository Structure
 
 - **attention/** – Self-attention layer implementation.
-- **embeding/** – Embedding modules (likely including token and positional embeddings).
+- **embeding/** – Embedding modules (including token and positional embeddings).
 - **encoder/** – Encoder block definitions for the model.
 - **ffn/** – Feed-forward network modules.
 - **norm/** – Normalization layers (e.g., RMSNorm).
